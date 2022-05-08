@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T21:45:59 EDT" name="Talent Turbo Suite" finished-at="2022-05-05T21:46:28 EDT" duration-ms="28419">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T21:45:59 EDT" name=" Services Page Test" finished-at="2022-05-05T21:46:14 EDT" duration-ms="15283">
+      <class name="talentturbotestcases.ServicesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:talentturbotestcases.ServicesTest@47e2e487]" started-at="2022-05-05T21:45:59 EDT" name="setUp" finished-at="2022-05-05T21:46:07 EDT" duration-ms="7270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="servicesTest()[pri:0, instance:talentturbotestcases.ServicesTest@47e2e487]" started-at="2022-05-05T21:46:07 EDT" name="servicesTest" finished-at="2022-05-05T21:46:14 EDT" duration-ms="6996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:talentturbotestcases.ServicesTest@47e2e487]" started-at="2022-05-05T21:46:14 EDT" name="tearDown" finished-at="2022-05-05T21:46:14 EDT" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- talentturbotestcases.ServicesTest -->
+    </test> <!--  Services Page Test -->
+    <test started-at="2022-05-05T21:45:59 EDT" name=" Login Page Test" finished-at="2022-05-05T21:46:21 EDT" duration-ms="21436">
+      <class name="talentturbotestcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:talentturbotestcases.LoginPageTest@6253c26]" started-at="2022-05-05T21:45:59 EDT" name="setUp" finished-at="2022-05-05T21:46:06 EDT" duration-ms="7208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:talentturbotestcases.LoginPageTest@6253c26]" started-at="2022-05-05T21:46:06 EDT" name="loginTest" finished-at="2022-05-05T21:46:20 EDT" duration-ms="13299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:talentturbotestcases.LoginPageTest@6253c26]" started-at="2022-05-05T21:46:20 EDT" name="tearDown" finished-at="2022-05-05T21:46:21 EDT" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- talentturbotestcases.LoginPageTest -->
+    </test> <!--  Login Page Test -->
+    <test started-at="2022-05-05T21:45:59 EDT" name="ContactUs Page Test" finished-at="2022-05-05T21:46:28 EDT" duration-ms="28419">
+      <class name="talentturbotestcases.ContactUsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:45:59 EDT" name="setUp" finished-at="2022-05-05T21:46:09 EDT" duration-ms="9346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="companyNameTest()[pri:1, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:46:09 EDT" name="companyNameTest" finished-at="2022-05-05T21:46:17 EDT" duration-ms="8458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:46:17 EDT" name="tearDown" finished-at="2022-05-05T21:46:19 EDT" duration-ms="2405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:46:19 EDT" name="setUp" finished-at="2022-05-05T21:46:22 EDT" duration-ms="2940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addressTest()[pri:2, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:46:22 EDT" name="addressTest" finished-at="2022-05-05T21:46:27 EDT" duration-ms="4411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:talentturbotestcases.ContactUsTest@6f46426d]" started-at="2022-05-05T21:46:27 EDT" name="tearDown" finished-at="2022-05-05T21:46:28 EDT" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- talentturbotestcases.ContactUsTest -->
+    </test> <!-- ContactUs Page Test -->
+  </suite> <!-- Talent Turbo Suite -->
+</testng-results>

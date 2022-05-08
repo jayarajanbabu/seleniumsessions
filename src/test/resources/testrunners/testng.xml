@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Talent Turbo Suite" verbose="4" thread-count="3" parallel="tests">
+
+	<test name="ContactUs Page Test">
+
+		<classes>
+			<class name="talentturbotestcases.ContactUsTest" />
+		</classes>
+	</test>
+
+
+	<test name=" Login Page Test">
+		<classes>
+			<class name="talentturbotestcases.LoginPageTest" />
+		</classes>
+	</test>
+
+	<test name=" Services Page Test">
+		<classes>
+			<class name="talentturbotestcases.ServicesTest" />
+		</classes>
+	</test>
+
+
+</suite>
